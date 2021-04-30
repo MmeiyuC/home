@@ -1,11 +1,11 @@
 body {
-  background-color:#ffa69e;
+  background-color: #ffa69e;
 }
 
 .topnav {
   background: #faf3dd;
   position: fixed;
-  font-family: courier;
+  font-family: 'Courier New', Courier, monospace;
   left: 0;
   right: 0;
   top: 0;
@@ -53,16 +53,16 @@ nav a:hover::before {
 }
 
 h1 {
-  font-family: courier;
-  color:#5e6472;
-  font-size:50px;
-  text-align:center;
+  font-family: 'Courier New', Courier, monospace;
+  color: #5e6472;
+  font-size: 50px;
+  text-align: center;
 }
 
 h2 {
-  font-family: georgia;
-  color:#aed9e0;
-  text-align:center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #aed9e0;
+  text-align: center;
 }
 
 img {
@@ -73,7 +73,7 @@ img {
 }
 
 p {
-  font-family: times;
+  font-family: 'Times New Roman', Times, serif;
   font-size: 140%;
   color: #b8f2e6;
   text-align: center;
